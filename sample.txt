@@ -1,2 +1,4 @@
 Hellow world
 Welcome to GitHub
+First create GitHub account
+Second create your first repository
