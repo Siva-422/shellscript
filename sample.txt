@@ -1,2 +1,4 @@
 Hellow world
 Welcome to GitHub
+Today i learned how to create GitHub account
+Learned to create repository
